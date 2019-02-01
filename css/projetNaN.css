@@ -1,0 +1,248 @@
+#navmenu
+{
+	background: linear-gradient(to right,white, silver);
+}
+.wrapper
+{
+	text-align: center;
+}
+
+.navbar-header h1 
+{
+	font-size: 50px;
+	font-family:,sans-serif;
+	float: left;
+	font-style: italic;
+	margin-top: 10px;
+	font-weight: bold;
+}
+header .navigation
+{
+	float: right;
+	padding-top: 20px;
+	font-size: 15px;
+}
+#image .wrapper h1
+{
+	font-weight: bold;
+	color: white;
+	text-shadow: 1px 1px 10px black;
+}
+#image .wrapper h3
+{
+	font-weight: bold;
+	color: white;
+	text-shadow: 1px 1px 10px black;
+	margin-bottom: 30px;
+}
+#image
+{
+	background: url("../images/image.jpg") no-repeat ;
+	height: 450px;
+}
+#image .wrapper
+{
+	padding-top: 200px;
+	margin-top: -20px;
+}
+.lien_voir_offre
+{
+	text-transform: uppercase;
+	width: 200px;
+	height: 50px;
+	background: #ff7100;
+	color: #fff;
+	font-size: 20px;
+	padding: 20px 15px;
+	line-height: 50px;
+	text-align: center;
+	border-radius: 3px;
+	margin-bottom: 40px;
+	transition: all 0.8s ease-in;
+	text-decoration: none;
+}
+.lien_voir_offre:hover
+{
+	text-decoration: none;
+	color: #fff;
+	background: black;
+	box-shadow: 10px 10px 10px #ff7100;
+}
+#nos-offres .offres h1
+{
+	width: 400px;
+	margin:0 auto 20px auto;
+	text-transform: uppercase;
+	border-bottom: 1px solid #02b82d;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.offres ul
+{
+	margin:80px 0;
+}
+.offres ul li
+{
+	list-style: none;
+}
+.offres .offres-2
+{
+	display: inline;
+}
+.offres ul li
+{
+	width: 220px;
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+}
+.container
+{
+	margin-top: 20px;
+}
+#en-savoir-plus .container p
+{
+	font-size: 15px;
+	color: #444;
+}
+#en-savoir-plus .container .wrapper p
+{
+	font-size: 15px;
+	color: #444;
+}
+#en-savoir-plus .container .wrapper
+{
+	margin-top: 40px;
+}
+#en-savoir-plus .container .wrapper h1
+{
+	width: 400px;
+	margin:0 auto 20px auto;
+	text-transform: uppercase;
+	border-bottom: 1px solid #02b82d;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#contact .container .wrapper h1
+{
+	width: 400px;
+	margin:0 auto 20px auto;
+	text-transform: uppercase;
+	border-bottom: 1px solid #02b82d;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+#contact .container .wrapper p
+{
+	margin-bottom: 40px;
+}
+input[type="text"]
+{
+	border: dotted;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	height: 50px;
+	transform: skewY(-16deg);
+	box-shadow: 1px 1px 10px yellow;
+}
+input[type="email"]
+{
+	border: dotted;
+	margin-bottom: 20px;
+	height: 50px;
+	transform: skewY(-16deg);
+	box-shadow: 1px 1px 10px yellow;
+}
+.btn-primary
+{
+	text-transform: uppercase;
+	margin-left: 80px;
+}
+#contact .container .wrapper textarea
+{
+	height: 200px;
+	width: 200px;
+	border: dotted;
+}
+footer
+{
+	height: 260px;
+	background: #444;
+}
+footer h1
+{
+	color: white;
+	text-align: center;
+	padding-top: 80px;
+}
+.copyright
+{
+	text-align: center;
+	font-weight: bold;
+	padding-top: 30px;
+	color: #777;
+}
+#possibilities
+{
+	padding-top: 40px;
+}
+#possibilities h1
+{
+	width: 400px;
+	margin:0 auto 60px auto;
+	text-transform: uppercase;
+	border-bottom: 1px solid #02b82d;
+	padding-bottom: 20px;
+	padding-top: 20px;
+
+}
+#possibilities article
+{
+	width: 460px;
+	height: 270px;
+	float: left;
+	border-radius: 10px;
+}
+#possibilities article:first-child
+{
+	margin-right: 20px;
+}
+.overlay
+{
+	background: rgba(255,255,255,0.95);
+	height: 100%;
+	width: 190px;
+	padding: 20px;
+	border-radius: 10px 0 0 10px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background: url(../images/image1.jpg);
+	background-size: cover;
+
+}
+fieldset
+{
+	
+	border-radius: 2000px 0px 2000px 0px;
+	width: 60%;
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+}
+h2
+{
+	box-shadow: 10px 10px 10px black;
+	text-shadow: 1px 1px 10px white;
+	color: black;
+	font-size: 30px;
+	font-style: italic;
+}
+h2:hover
+{
+	background:linear-gradient(to right,silver, #13E5F4);
+}
+.saisie
+{
+	border-radius: 5px 5px 5px 5px;
+}
+.mot:hover
+{
+	background:linear-gradient(to right,silver, #13E5F4);
+}
+.mot
+{
+	text-shadow: 1px 1px 10px black;
+	color: white;
+	font-style: italic;
+}
+.fin
+{
+	padding: 10px;
+	margin:25px;
+	margin-top:10px;
+	padding-top: 10px; 
+	border-radius: 100px;
+	line-height: 30px;
+	width: 125px;
+	font-size: 20px;
+	font-family: comic sans ms;
+	background-color: silver;
+	box-shadow: 0 0 10px black;
+	background:linear-gradient(to bottom,white,silver);
+}
+.fin:hover
+{
+	background:linear-gradient(to right,silver, #13E5F4);
+}
+.tableau_formu
+{
+	border-radius: 0px 2000px 0px 2000px;
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+}
+.gmail
+{
+	text-shadow: 1px 1px 10px black;
+	color: white;
+	font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
